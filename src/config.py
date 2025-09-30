@@ -1,0 +1,1 @@
+# Konfigurasi (model, db path, chunk size, dsb.)

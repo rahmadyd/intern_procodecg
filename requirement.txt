@@ -1,7 +1,0 @@
-pandas
-PyPDF2
-chromadb
-streamlit
-ollama
-langchain
-python-dotenv
