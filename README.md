@@ -1,9 +1,10 @@
 # Dokumentasi project
 
-# 📚 RAG Chatbot Indonesia Data
+# 📚 RAG Chatbot Data COVID-19 Indonesia
 
 Proyek ini adalah chatbot sederhana dengan RAG (Retrieval Augmented Generation) 
-yang menggunakan data publik dari [data.go.id](https://data.go.id).
+yang menggunakan data publik dari kaggle dan Artikel "KEBIJAKAN PENANGANAN PANDEMI COVID-19"
+Oleh: Masagung Suksmonohadi dan Diah Indira1.
 
 ## 🚀 Fitur
 - Upload dataset (PDF/CSV/TXT).
